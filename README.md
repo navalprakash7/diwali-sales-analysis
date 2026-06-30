@@ -1,6 +1,6 @@
 # Diwali Sales Analysis
 
-Exploratory data analysis of Diwali sales data to understand customer demographics, purchasing behavior, and top-performing states, occupations, and product categories.
+Data analysis of Diwali sales data to understand customer demographics, purchasing behavior, and top-performing states, occupations, and product categories.
 
 ## Dataset
 
